@@ -1,6 +1,0 @@
-framework module FramewrokTest {
-  umbrella header "frameworkTestResult.h"
-
-  export *
-  module * { export * }
-}

@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import FramewrokTest
+import FrameworkTest
 
 class ViewController: UIViewController {
 
